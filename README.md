@@ -2,4 +2,4 @@
 Grupo N6 
 Sebastian Medina, 
  Benjamin Lopez,
- Nayeli Simbaña
+ Nayely Simbaña
